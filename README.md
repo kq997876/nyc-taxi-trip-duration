@@ -5,6 +5,9 @@ The dataset is based on the 2016 NYC Yellow Cab trip record data made available 
 The notebook includes data processing, EDA, Feature Engineering and Modeling parts. Data Analysis has been done followed by modeling as follows:
 
 XGBoost RMSLE: 0.0695
+
 LinearRegression RMSLE: 0.1097
+
 DecisionTree RMSLE: 0.0838
+
 RandomForest RMSLE: 0.0821
